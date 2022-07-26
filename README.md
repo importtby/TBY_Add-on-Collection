@@ -14,6 +14,16 @@ Add-on for Blender with operators to transfer name between <img width="20" heigh
 
 ____________
 
+## <a href ="https://github.com/Taiseibutsu/KTS_Keyframe_by_type_selectior"> Keyframe by type Selector (KTS) </a>
+
+<img align="right" width="370" height="90" src="https://user-images.githubusercontent.com/84092569/180643845-87ad511a-0422-42ea-8260-080016b22700.png">
+
+Select multiple keyframes by its type. 
+<p></p>
+
+
+____________
+
 ## <a href ="https://github.com/Taiseibutsu/VTS_View_to_selection-TB"> View to selection (VTS) </a>
 <img align="right" width="320" height="140" src="https://user-images.githubusercontent.com/84092569/156342878-6e1d7078-434e-47fe-a38c-c150eee3c597.png">
 Tool for quickly move viewport to selected points.
