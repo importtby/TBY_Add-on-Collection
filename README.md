@@ -1,5 +1,5 @@
-# TB_Add-on-Collection
-List of personal Blender Add-ons
+# TBY Add-on Collection
+List of custom Blender Add-ons
 ____________
 ## <a href ="https://github.com/Taiseibutsu/BSR_Browser_Scroll_Resizer-TB"> Browser Scroll Resizer (BSR) </a>
 
