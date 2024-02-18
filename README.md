@@ -1,7 +1,7 @@
 # TBY Add-on Collection
 List of custom Blender Add-ons
 ____________
-## <a href ="https://github.com/importtby/BSR_Browser_Scroll_Resizer"> Browser Scroll Resizer (BSR) </a>
+## <a href ="https://github.com/importtby/DTR_Data_Tool_Renamer"> Browser Scroll Resizer (BSR) </a>
 
 Custom shortcut for quickly resize File and Asset Browser to mimic default resice behaviour in comon File browsers.
 
