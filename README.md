@@ -3,7 +3,7 @@ List of custom Blender Add-ons
 ____________
 ## <a href ="https://github.com/importtby/BSR_Browser_Scroll_Resizer"> Browser Scroll Resizer (BSR) </a>
 
-Shortcut for quickly resize File and Asset Browser using <kbd>Alt + Scroll</kbd> to resize like default file browser resice shortcut.
+Custom shortcut for quickly resize File and Asset Browser to mimic default resice behaviour in comon File browsers.
 
 ____________
 ## <a href ="https://github.com/Taiseibutsu/DTR_Data_Tool_Renamer-TB"> Data Tool Renamer (DTR) </a>
